@@ -26,4 +26,4 @@ R-squared: 0.39
 These metrics indicate that the model has moderate predictive power, but there is still room for improvement.
 
 # Usage
-To run the project, clone the repository and install the required packages. Then, run the predict_weight.py script to load the dataset, train the model, and make predictions on a randomly selected subset of the data.
+To run the project, clone the repository and install the required packages download the data file Weight_2.csv  Then, run the BodyWeight_Model.ipynb script to load the dataset, train the model, and make predictions on a randomly selected subset of the data.
